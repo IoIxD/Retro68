@@ -1,3 +1,4 @@
+.zig-cache
 *~
 .*.swp
 CMakeLists.txt.user
